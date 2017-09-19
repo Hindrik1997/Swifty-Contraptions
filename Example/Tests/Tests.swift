@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import Swifty-Contraptions
+import Swifty_Contraptions
 
 class Tests: XCTestCase {
     
