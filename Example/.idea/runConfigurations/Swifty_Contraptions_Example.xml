@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Swifty-Contraptions-Example" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Swifty-Contraptions" TARGET_NAME="Swifty-Contraptions_Example" CONFIG_NAME="Debug" SCHEME_NAME="Swifty-Contraptions-Example" RUN_TARGET_PROJECT_NAME="Swifty-Contraptions" RUN_TARGET_NAME="Swifty-Contraptions_Example" MAKE_ACTIVE="TRUE">
+    <envs />
+    <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+      <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+    </EXTENSION>
+    <method />
+  </configuration>
+</component>

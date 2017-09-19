@@ -1,0 +1,6 @@
+framework module Swifty_Contraptions {
+  umbrella header "Swifty-Contraptions-umbrella.h"
+
+  export *
+  module * { export * }
+}

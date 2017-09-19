@@ -1,0 +1,16 @@
+PODS:
+  - Swifty-Contraptions (0.1.0)
+
+DEPENDENCIES:
+  - Swifty-Contraptions (from `../`)
+
+EXTERNAL SOURCES:
+  Swifty-Contraptions:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Swifty-Contraptions: b9115f27b7f2f1b2fde30443ed0050fdeb591f36
+
+PODFILE CHECKSUM: 97be31d6b0ae58de964098ccf9e33b1ee0113561
+
+COCOAPODS: 1.3.1

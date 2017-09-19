@@ -1,0 +1,22 @@
+{
+  "name": "Swifty-Contraptions",
+  "version": "0.1.0",
+  "summary": "A short description of Swifty-Contraptions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hindrik/Swifty-Contraptions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hindrik": "hindrik1997@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Hindrik/Swifty-Contraptions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Swifty-Contraptions/Classes/**/*"
+}
