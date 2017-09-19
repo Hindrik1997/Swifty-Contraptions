@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Swifty-Contraptions_Example' do
+  pod 'Swifty-Contraptions', :path => '../'
+
+  target 'Swifty-Contraptions_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
